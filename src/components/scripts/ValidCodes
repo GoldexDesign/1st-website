@@ -1,0 +1,3 @@
+const validCodes = ["Zlaja", "Vlaja"];
+
+export default validCodes;
