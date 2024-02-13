@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import { Container, Typography } from "@mui/material";
 import { styled } from "@mui/system";
-import zreactImage from "./images/Boyfight.jpg";
+import zreactImage from "./components/images/Boyfight.jpg";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import ResponsiveAppBar from "./components/scripts/ResponsiveAppBar";
 import TopComponenet from "./components/pages/TopComponenet";
